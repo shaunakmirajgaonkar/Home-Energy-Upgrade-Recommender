@@ -1,0 +1,17 @@
+home_id,home_name,zone,home_type,floor_area_m2,occupants,annual_kwh,monthly_bill_avg,summer_bill_peak,winter_bill_avg,home_age_years,insulation_score,window_efficiency_score,hvac_efficiency_score,appliance_efficiency_score,ventilation_score,summer_heat_index,cooling_hours_month,heating_hours_month,humidity_index,occupancy_index
+H001,Maple Residence,North,Apartment,92,4,11800,4100,5200,2600,18,42,58,48,62,45,82,96,0,68,74
+H002,Riverbend Home,West,Detached,145,5,16400,5450,6900,3200,27,34,51,55,48,62,76,108,0,61,70
+H003,Sunrise Villa,South,Detached,188,6,21300,7020,9100,3700,31,71,66,63,59,73,88,124,0,52,78
+H004,Cedar Court,East,Row House,118,4,13200,4460,5700,2900,22,58,47,44,54,49,69,102,0,72,66
+H005,Greenview Flat,Central,Apartment,78,3,8600,2980,3800,1900,12,79,72,77,68,81,64,78,0,58,62
+H006,Oakridge Home,North,Detached,162,5,18900,6280,7900,3400,35,39,44,52,43,38,80,116,0,77,73
+H007,Lakeview House,West,Semi-Detached,134,4,15100,4990,6400,2700,24,63,69,57,61,56,73,97,0,65,69
+H008,Meadow House,South,Detached,176,5,19800,6550,8400,3300,29,47,55,71,52,64,91,119,0,79,82
+H009,Parkside Flat,Central,Apartment,84,2,9200,3160,4050,2050,9,86,81,82,75,88,59,69,0,51,54
+H010,Hillcrest Home,East,Semi-Detached,126,4,14600,4780,6100,2850,26,52,39,46,57,42,84,105,0,81,71
+H011,Palm Grove,South,Detached,154,5,17700,5850,7600,3050,21,67,62,69,64,59,94,112,0,86,76
+H012,Harbor View,West,Apartment,101,3,10900,3720,4700,2300,16,73,57,61,46,68,78,88,0,70,63
+H013,Pine Terrace,North,Row House,110,4,12700,4310,5500,2500,19,49,68,53,58,51,71,91,0,64,75
+H014,Willow End,East,Detached,170,5,20400,6740,8700,3500,33,31,36,41,45,35,89,122,0,84,79
+H015,Orchard Court,Central,Semi-Detached,139,4,15300,5080,6500,2750,23,61,74,66,71,72,67,95,0,57,68
+H016,Crescent Home,West,Detached,199,6,22900,7540,9800,3900,38,28,49,38,41,33,86,131,0,89,83
